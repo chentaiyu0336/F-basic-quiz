@@ -15,7 +15,7 @@ fetch(`http://localhost:8080/users/${id}`)
 
     document
       .querySelector("h2")
-      .append(`${data.name} ${data.age} YO AND THIS IS MY RESUME / CV`);
+      .append(` ${data.name} ${data.age} YO AND THIS IS MY RESUME / CV`);
 
     const about = document.querySelector(".about-msg");
     const aboutMsg = document.createElement("p");
