@@ -3,3 +3,26 @@
   margin-top: 2px;
   padding: 2%;
 }
+
+h3 {
+  color: $primary-color;
+}
+
+h4 {
+  margin: 0;
+}
+
+li {
+  display: flex;
+  margin-bottom: 1%;
+}
+
+.year {
+  margin-right: 2%;
+}
+
+.education-message {
+  width: 100%;
+  padding: 2%;
+  background-color: $gray-light;
+}
