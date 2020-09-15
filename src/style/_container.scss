@@ -1,6 +1,6 @@
 .container {
   background-color: $white;
-  padding: 2%;
+  padding: 4%;
 }
 
 h3 {
@@ -11,13 +11,13 @@ h4 {
   margin: 0;
 }
 
-li {
+.edu-info {
   display: flex;
   margin-bottom: 1%;
 }
 
 .year {
-  margin-right: 2%;
+  margin-right: 8%;
 }
 
 .education-message {
